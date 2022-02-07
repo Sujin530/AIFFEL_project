@@ -1,6 +1,5 @@
-# AIFFEL_project
+# AIFFEL Project: Exploration
 
-# AIFFEL_project about Exploration
 
 | Subject | Practice | Project |
 |-----|---|---|
