@@ -11,3 +11,4 @@
 | E_06. Text Classification | IMDB 영화리뷰 감성분석 | 네이버 영화리뷰 감성분석([link](https://github.com/Sujin530/AIFFEL_project/blob/main/Exploration%2006/%5BE_06%5DMovieReviewSentimentAnalysis.ipynb))|
 | E_07. Sementic Segmentation | Shallow Focus 만들기 | 배경 블러, 크로마키 합성([link](https://github.com/Sujin530/AIFFEL_project/blob/main/Exploration%2007/%5BE_07%5DSementicSegmentationMask.ipynb))|
 | E_08. Text Summarization | Amazon 리뷰 요약 | 뉴스 요약 ([link](__))|
+| E_09. Pneumonia Detection with CNN | 폐렴 진단 | 폐렴진단 성능 개선 ([link](__))|
